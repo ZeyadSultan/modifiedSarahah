@@ -1,0 +1,7 @@
+﻿  ConsoleApplication6.cpp
+  FileManager.cpp
+  User.cpp
+C:\Users\Pc\source\repos\ConsoleApplication6\ConsoleApplication6\User.cpp(345,35): warning C4018: '<=': signed/unsigned mismatch
+  Generating Code...
+C:\Users\Pc\source\repos\ConsoleApplication6\ConsoleApplication6\User.cpp(255): warning C4715: 'User::getUsername': not all control paths return a value
+  ConsoleApplication6.vcxproj -> C:\Users\Pc\source\repos\ConsoleApplication6\Debug\ConsoleApplication6.exe
